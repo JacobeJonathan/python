@@ -1,6 +1,8 @@
 Think Python
 Think Python is an introduction to Python for people who have never programmed before – or for people who have tried and had a hard time. You can order print and ebook versions of the third edition from Bookshop.org and Amazon.
+Libro ejercicios : 
 
+https://allendowney.github.io/ThinkPython/
 https://raw.githubusercontent.com/AllenDowney/ThinkPython/v3/think_python_3e.jpg
 Here is the landing page for the book at Green Tea Press.
 
